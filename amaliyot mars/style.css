@@ -1,0 +1,112 @@
+*{
+    box-sizing: border-box;
+}
+.container{
+    max-width: 1200px;
+}
+.fa-solid{
+font-size:36px ;
+color: #F0400F;
+}
+button{
+    background-color: transparent;
+    border: none;
+    font-size: 36px;
+    font-family: inherit;
+}
+.flex{
+    display: flex;
+    justify-content: space-between;
+}
+header{
+height: 40px;
+width: 90%;
+margin: 40px;
+}
+.btn1{
+    justify-content: space-between;
+}
+
+
+main {
+  border: 1px solid gray;
+  width: 650px;
+  height: 786px;
+  top: 186px;
+  left: 395px;
+  gap: 0px;
+  border-radius: 50px;
+  opacity: 0px;
+  margin: 50px auto;
+  padding: 40px;
+  text-align: center;
+}
+
+.info {
+  margin: auto;
+  width: 533px;
+  height: 70px;
+  top: 498px;
+  left: 459px;
+  gap: 0px;
+  border-radius: 20px;
+  opacity: 0px;
+  border: 1px solid gray;
+  display: flex;
+  background: #99999971;
+}
+
+.student,
+.parrent {
+  width: 255px;
+  height: 54px;
+  top: 506px;
+  left: 470px;
+  gap: 0px;
+  border-radius: 15px;
+  opacity: 0px;
+  border: 1px solid #999;
+  margin: auto;
+  background-color: white;
+}
+
+.parrent {
+  background: #99999904;
+}
+
+p {
+  font-size: 28px;
+  margin: 8px auto;
+}
+
+.parrent p {
+  color: rgb(38, 37, 37);
+}
+
+input {
+  margin: auto;
+  width: 533px;
+  height: 70px;
+  top: 607px;
+  left: 459px;
+  gap: 0px;
+  border-radius: 20px;
+  opacity: 0px;
+  padding: 10px;
+  border: 1px solid #000000;
+}
+.Подтвердить{
+  width: 202px;
+height: 67px;
+top: 868px;
+left: 785px;
+gap: 0px;
+border-radius: 20px;
+opacity: 0px;
+background: #F69E86;
+color: #fff;
+
+}.Подтвердить{
+  margin: 100px;
+  margin-left: 300px;
+}
